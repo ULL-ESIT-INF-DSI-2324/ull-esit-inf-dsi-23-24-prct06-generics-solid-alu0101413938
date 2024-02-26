@@ -56,7 +56,6 @@ abstract class SearchableCollection<T> implements Collectable<T>, Searchable<T> 
     if (index > -1) {
       this.items.splice(index, 1);
     }
-    else console.log("No se pudo eliminar el item");
   }
 
   /**
