@@ -1,6 +1,6 @@
 import 'mocha';
 import { expect } from 'chai';
-import { NumericSearchableCollection, StringSearchableCollection } from '../src/ejercicio-PE102'; // Reemplaza 'ruta' con la ruta real de tu función
+import { NumericSearchableCollection, StringSearchableCollection } from '../src/ejercicioPE102/ejercicio-PE102'; // Reemplaza 'ruta' con la ruta real de tu función
 
 describe('Clase StringSearchableCollection', () => {
   it('debería devolver el tamaño del array', () => {
