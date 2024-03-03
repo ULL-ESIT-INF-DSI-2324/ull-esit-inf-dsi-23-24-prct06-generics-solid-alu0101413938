@@ -15,11 +15,7 @@
   "devDependencies": {
     "@types/chai": "^4.3.11",
     "@types/mocha": "^10.0.6",
-<<<<<<< HEAD
-    "@types/node": "^20.11.20",
-=======
     "@types/node": "^20.11.21",
->>>>>>> fa593380d449f3755fdbc6aaec071e7816b77036
     "@typescript-eslint/eslint-plugin": "^6.20.0",
     "@typescript-eslint/parser": "^6.20.0",
     "chai": "^4.4.1",
